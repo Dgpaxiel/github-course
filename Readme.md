@@ -4,4 +4,7 @@ Este é um repositório teste para ensinar como Git funciona
 
 Saiba mais em [diegopaschoa.com.br](http://diegopaschoa.com.br)
 
-Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido =).
+Gostou do curso? Quer mais? Ajude com uma doação, até um café é válido =)
+
+
+Utilize o link do Paypal
